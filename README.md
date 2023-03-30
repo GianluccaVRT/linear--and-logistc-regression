@@ -1,4 +1,4 @@
-# UNICAMP Project
+# UNICAMP - Projeto
 
 ## Parte 1 - Regressão Linear
 
