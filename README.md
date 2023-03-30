@@ -12,4 +12,4 @@ Queremos implementar um algoritmo de regressão linear, que ajuste um polinômio
 Um dos problemas de maior importância para o desenvolvimento histórico de machine e deep learning foi o reconhecimento de dígitos manuscritos. Neste contexto, a base de imagens MNIST teve papel fundamental. O arquivo imageMNIST.csv contém, em cada linha, uma imagem da base MNIST transformada em vetor. Já o arquivo labelMNIST.csv contém o dígito correspondente àquela linha.
 Queremos implementar um algoritmo de regresão logística multi-classes para resolver este problema.
 
-Resultados do projeto estão no arquivo "Regresão Linear e Classificação Logística.pdf"
+Resultados do projeto estão no arquivo "Regressão Linear e Classificação Logística.pdf"
